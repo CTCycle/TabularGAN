@@ -22,7 +22,6 @@ initial_folder = os.path.dirname(os.path.realpath(__file__))
 sg.theme('LightGrey1')
 sg.set_options(font = ('Arial', 11), element_padding = (6,6))
 
-
 # [LAYOUT OF THE FILE SELECTION FRAME]
 #==============================================================================
 list_of_files = GlobVar.list_of_files
